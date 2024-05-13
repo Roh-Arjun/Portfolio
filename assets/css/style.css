@@ -9,6 +9,32 @@ a {
   text-decoration: none;
 }
 
+/*dONE BY ROH */
+.share{
+  padding-top: 10px;
+  padding-left:10px;
+  border-radius: 50%;
+}
+
+.social+.social{
+  margin-left: 10px;
+}
+
+.social {
+display: inline-block;
+width: 40px;
+height: 40px;
+line-height: 40px;
+text-align: center;
+border-radius: 50%;
+background-color: white;
+margin: 5px;
+}
+
+.social i {
+color: red;
+}
+/* ROH ENDED */
 a:hover {
   color: #37b3ed;
   text-decoration: none;
